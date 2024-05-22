@@ -48,6 +48,7 @@ ul {
   color: #4d5ae5;
   text-decoration: none;
   margin-right: 76px;
+
 }
 .logo-tech {
   font-weight: 700;
@@ -59,12 +60,14 @@ ul {
   color: #2e2f42;
   text-decoration: none;
 }
+
 .list-header {
   list-style-type: none;
   text-decoration: none;
   display: flex;
   gap: 40px;
 }
+
 .link-nav {
   font-weight: 500;
   font-size: 16px;
@@ -76,10 +79,12 @@ ul {
   display: block;
   padding: 24px 0;
 }
+
 .link-nav:hover,
 .link-nav:focus {
   color: #404bbf;
 }
+
 .address-contacts {
   font-style: normal;
   display: flex;
