@@ -251,3 +251,32 @@ ul {
     letter-spacing: 0.02em;
     color: #f4f4fd;
   }
+
+  /* container */
+
+.container-header {
+  display: flex;
+}
+
+.container {
+  align-items: center;
+
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.container-team {
+  padding: 32px 0;
+}
+
+.container-portfolio {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+}
+
+.container-header {
+  /* align-items: center; */
+}
