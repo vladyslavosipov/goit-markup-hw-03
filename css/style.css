@@ -388,6 +388,7 @@ ul,ol {
 
 .container-header {
   display: flex;
+  align-items: center;
 }
 
 .container {
@@ -409,7 +410,3 @@ ul,ol {
   margin-bottom: 8px;
 }
 
-.container-header {
-  /* align-items: center; */
-   /* display: flex; */
-}
