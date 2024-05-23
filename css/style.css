@@ -92,6 +92,7 @@ ul {
   display: block;
   margin-right: auto;
 }
+
 .list-contacts {
   list-style-type: none;
   text-decoration: none;
@@ -109,12 +110,14 @@ ul {
   text-decoration: none;
   font-style: normal;
 }
+
 .contacts:hover,
 .contacts:focus {
   color: #404bbf;
 }
 
   /* effective solutions */
+
 
 .solutions {
   background: #2e2f42;
@@ -163,6 +166,7 @@ ul {
 .skills {
   padding: 120px 0;
 }
+
 .title-skills {
   position: absolute;
   width: 1px;
@@ -175,6 +179,7 @@ ul {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 .title-skills {
   font-weight: 700;
   font-size: 36px;
@@ -185,15 +190,18 @@ ul {
   color: #2e2f42;
   text-transform: capitalize;
 }
+
 .list-skills {
   list-style-type: none;
   text-decoration: none;
   display: flex;
   gap: 24px;
 }
+
 .list-features-item {
   width: calc((100% - 72px) / 4);
 }
+
 .title-points {
   font-weight: 500;
   font-size: 20px;
@@ -204,6 +212,7 @@ ul {
   text-decoration: none;
   margin-bottom: 8px;
 }
+
 .title-description {
   font-weight: 400;
   font-size: 16px;
