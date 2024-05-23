@@ -21,7 +21,7 @@ p {
   padding: 0;
 }
 
-ul {
+ul,ol {
   margin: 0;
   padding: 0;
 }
@@ -90,7 +90,7 @@ ul {
   display: flex;
   align-items: center;
   display: block;
-  margin-right: auto;
+  margin-left: auto;
 }
 
 .list-contacts {
